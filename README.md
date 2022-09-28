@@ -1,3 +1,13 @@
+# Staking Dapp with NFT whitelisting
+
+kindling connect to the Dapp on the polygon network
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
